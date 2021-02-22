@@ -7,7 +7,7 @@ Have a look at my awesome projects:
 | Project                          | Description                                                                 |
 | -------------------------------- | --------------------------------------------------------------------------- |
 | [`Nano JSX`](http://nanojsx.io)  | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.             |
-| [`enable3d`](http://enable3d.io) | 🕹️ 2D/3D Game Framework based on three.js.                                  |
+| [`enable3d`](http://enable3d.io) | 🕹️ 2D/3D Game Framework for the web, based on three.js.                     |
 | [`geckos.io`](http://geckos.io)  | 🦎 Real-time client/server communication over UDP using WebRTC and Node.js. |
 
 ---
