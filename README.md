@@ -14,10 +14,10 @@ Other small packages:
 
 | Package                                                      | Description                                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| [`tap`](https://www.npmjs.com/package/@yandeu/tap)           | 🖱️ Handling of user interactions such as mouse, touch and pointer events. |
-| [`keyboard`](https://www.npmjs.com/package/@yandeu/keyboard) | ⌨️ Handling of keyboard events.                                           |
-| [`events`](https://www.npmjs.com/package/@yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7             |
-| [`extract`](https://www.npmjs.com/package/@yandeu/extract)   | 📦 Extract package.json properties.                                       |
+| [`tap`](https://github.com/yandeu/tap)           | 🖱️ Handling of user interactions such as mouse, touch and pointer events. |
+| [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                           |
+| [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7             |
+| [`extract`](https://github.com/yandeu/extract)   | 📦 Extract package.json properties.                                       |
 
 Quick links:  
 [`All Issues`](https://github.com/issues?q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+is%3Aopen) [`All Discussions`](https://github.com/discussions?discussions_q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+)
