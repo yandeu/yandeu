@@ -12,10 +12,11 @@ Have a look at my awesome projects:
 
 Other small packages:
 
-| Package                                                      | Description                                                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Package                                          | Description                                                               |
+| ------------------------------------------------ | ------------------------------------------------------------------------- |
 | [`tap`](https://github.com/yandeu/tap)           | 🖱️ Handling of user interactions such as mouse, touch and pointer events. |
 | [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                           |
+| [`audio`](https://github.com/yandeu/audio)       | 🎵 Audio library for the Web Audio API.                                   |
 | [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7             |
 | [`extract`](https://github.com/yandeu/extract)   | 📦 Extract package.json properties.                                       |
 
