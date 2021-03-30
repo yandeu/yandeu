@@ -4,12 +4,13 @@ Hi, I'm Yannick! 👋🏻 I started programming at the age of 24 and haven't sto
 
 Have a look at my awesome projects:
 
-| Project                                                                         | Description                                                                 |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)       | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.             |
-| [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d) | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                     |
-| [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io) | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js. |
-| [`Five Server`](https://github.com/yandeu/five-server)                          | 🚀 Development Server with Live Reload Capability.                          |
+| Project                                                                         | Description                                                                                |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)       | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
+| [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d) | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
+| [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io) | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
+| [`Five Server`](https://github.com/yandeu/five-server#readme)                   | 🚀 Development Server with Live Reload Capability.                                         |
+| [`node-cli`](https://github.com/yandeu/node-cli#readme)                         | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
 
 Other small packages:
 
