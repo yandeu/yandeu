@@ -2,6 +2,10 @@
 
 Hi, I'm Yannick! 👋🏻 I started programming at the age of 24 and haven't stopped since then.
 
+_In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)_
+
+---
+
 Have a look at my awesome projects:
 
 | Project                                                                         | Description                                                                                |
