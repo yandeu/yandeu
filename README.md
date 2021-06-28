@@ -2,6 +2,8 @@
 
 <p>Welcome to my page! </br> I'm Yannick, Software/DevOps  Engineer from <img src="https://image.flaticon.com/icons/svg/197/197540.svg" width="13"/> <b>Switzerland</b>.
 
+Check out my latest project [`🐋 Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme)
+
 _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)_
 
 ---
@@ -21,20 +23,15 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
           <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/cordova.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/cssnext.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/g-ads.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/g-analytics.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/google-icon.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/ionic.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" width="24px" height="24px" />
@@ -51,13 +48,10 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
           <img src="https://github.com/get-icon/geticon/raw/master/icons/nginx.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/pixijs.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/postcss.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/reactivex.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" width="24px" height="24px" />
@@ -71,25 +65,18 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
           <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/wix.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/woocommerce.svg" width="24px" height="24px" />
-          <img
-            src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg"
-            width="24px"
-            height="24px"
-          />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/workbox-icon.svg" width="24px" height="24px" />
         </p>
 
 ## Open source projects
 
-| Project                                                                         | Description                                                                                |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)       | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
-| [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d) | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
-| [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io) | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
-| [`Five Server`](https://github.com/yandeu/five-server#readme)                   | 🚀 Development Server with Live Reload Capability.                                         |
-| [`node-cli`](https://github.com/yandeu/node-cli#readme)                         | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
+| Project                                                                               | Description                                                                                |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme) | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
+| [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)             | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
+| [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d)       | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
+| [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io)       | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
+| [`Five Server`](https://github.com/yandeu/five-server#readme)                         | 🚀 Development Server with Live Reload Capability.                                         |
+| [`node-cli`](https://github.com/yandeu/node-cli#readme)                               | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
 
 ## Other small packages
 
