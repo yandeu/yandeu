@@ -37,6 +37,14 @@ engine-strict=true
   }
 }
 ```
+## Replace dirname and filename
+
+```js
+import { dirname } from 'path'
+import { fileURLToPath } from 'url'
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+```
 
 ## Include ES Modules into a CommonJS codebase?
 
