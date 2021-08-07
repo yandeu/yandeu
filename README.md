@@ -12,33 +12,19 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
 
   <p>
           <img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
-          <img
-            src="https://github.com/get-icon/geticon/raw/master/icons/capacitorjs-icon.svg"
-            width="24px"
-            height="24px"
-          />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/cordova.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/google-icon.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/ionic.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/markdown.svg" width="24px" height="24px" />
           <img
             src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg"
             width="24px"
@@ -48,13 +34,8 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
           <img src="https://github.com/get-icon/geticon/raw/master/icons/nginx.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/twilio.svg" width="24px" height="24px" />
           <img
