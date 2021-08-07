@@ -33,7 +33,15 @@ engine-strict=true
   "compilerOptions": {
     "target": "ES2019",
     "module": "es2020",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+
+    "rootDir": "src",
+    "outDir": "dist",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
   }
 }
 ```
