@@ -1,6 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Yannick.</h1>
 
-<p>Welcome to my page! </br> I'm Yannick, Software/DevOps  Engineer from <img src="https://image.flaticon.com/icons/svg/197/197540.svg" width="13"/> <b>Switzerland</b>.
+Welcome to my page!  
+I'm Yannick, Software/DevOps  Engineer.
+
+- Watch my [YouTube Videos](https://www.youtube.com/c/yandeu/videos).
+- Follow me on [GitHub](https://github.com/yandeu?tab=followers).
+- Follow me on [Twitter](https://twitter.com/yannickdeubel).
 
 Check out my latest project [`🐋 Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme)
 
