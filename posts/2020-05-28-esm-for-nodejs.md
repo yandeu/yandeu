@@ -31,7 +31,7 @@ engine-strict=true
 // tsconfig.json
 {
   "compilerOptions": {
-    "target": "ES2019",
+    "target": "ES2020",
     "module": "es2020",
     "moduleResolution": "node",
 
