@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Yannick.</h1>
 
 Welcome to my page!  
-I'm Yannick, Software/DevOps  Engineer.
+I'm Yannick, Software/DevOps Engineer.
 
 - Watch my [YouTube Videos](https://www.youtube.com/c/yandeu/videos).
 - Follow me on [GitHub](https://github.com/yandeu?tab=followers).
 - Follow me on [Twitter](https://twitter.com/yannickdeubel).
 
-Check out my latest project [`🐋 Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme)
+Check out my latest project: [`express6`](https://github.com/yandeu/express6#readme)
 
 _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)_
 
@@ -57,6 +57,7 @@ _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](p
 
 | Project                                                                               | Description                                                                                |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`express6`](https://github.com/yandeu/express6#readme)                               | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
 | [`Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme) | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
 | [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)             | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
 | [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d)       | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
