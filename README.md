@@ -59,15 +59,15 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 
 ## Open source projects
 
-| Project                                                                               | Description                                                                                |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [`express6`](https://github.com/yandeu/express6#readme)                               | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
-| [`Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme) | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
-| [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)             | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
-| [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d)       | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
-| [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io)       | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
-| [`Five Server`](https://github.com/yandeu/five-server#readme)                         | 🚀 Development Server with Live Reload Capability.                                         |
-| [`node-cli`](https://github.com/yandeu/node-cli#readme)                               | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
+| Status                                                                                                                       | Project                                                                               | Description                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/express6/CI">                    | [`express6`](https://github.com/yandeu/express6#readme)                               | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/docker-swarm-visualizer/Docker"> | [`Docker Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme) | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nanojsx/nano/CI">                       | [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)             | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/enable3d/enable3d/CI">                  | [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d)       | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/geckosio/geckos.io/CI">                 | [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io)       | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/five-server/CI">                 | [`Five Server`](https://github.com/yandeu/five-server#readme)                         | 🚀 Development Server with Live Reload Capability.                                         |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/node-cli/CI">                    | [`node-cli`](https://github.com/yandeu/node-cli#readme)                               | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
 
 ## Other small packages
 
