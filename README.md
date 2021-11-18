@@ -11,6 +11,10 @@ Check out my latest project: [`express6`](https://github.com/yandeu/express6#rea
 
 _In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)_
 
+## Want to help?
+
+Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wanted%22%2Cexample%2Cdocumentation%2Cenhancement+user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+is%3Aopen+)!
+
 ---
 
 ## Things I code with
