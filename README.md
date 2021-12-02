@@ -73,10 +73,11 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 
 | Package                                          | Description                                                               |
 | ------------------------------------------------ | ------------------------------------------------------------------------- |
+| [`gitget`](https://github.com/yandeu/gitget)     | 📦 package Clone GitHub repos fast and easy.                              |
 | [`tap`](https://github.com/yandeu/tap)           | 🖱️ Handling of user interactions such as mouse, touch and pointer events. |
-| [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                           |
+| [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                            |
 | [`audio`](https://github.com/yandeu/audio)       | 🎵 Audio library for the Web Audio API.                                   |
-| [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7             |
+| [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7              |
 | [`extract`](https://github.com/yandeu/extract)   | 📦 Extract package.json properties.                                       |
 
 ## Quick links
