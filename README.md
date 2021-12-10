@@ -5,7 +5,7 @@ I'm Yannick, Software/DevOps Engineer.
 
 - Watch my [YouTube Videos](https://www.youtube.com/c/yandeu/videos).
 - Follow me on [GitHub](https://github.com/yandeu?tab=followers).
-- Follow me on [Twitter](https://twitter.com/yannickdeubel).
+- Follow me on [Twitter](https://twitter.com/_yandeu).
 
 Check out my latest project: [`express6`](https://github.com/yandeu/express6#readme)
 
