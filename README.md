@@ -82,7 +82,7 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 
 ## Quick links
 
-[`All Issues`](https://github.com/issues?q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+is%3Aopen) [`All Discussions`](https://github.com/discussions?discussions_q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+)
+[`All Issues`](https://github.com/issues?q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+is%3Aopen+-label%3AStale+) [`All Discussions`](https://github.com/discussions?discussions_q=user%3Ayandeu+org%3Ananojsx+org%3Aenable3d+org%3Ageckosio+sort%3Aupdated-desc+)
 
 ---
 
