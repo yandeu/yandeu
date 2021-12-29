@@ -7,9 +7,8 @@ I'm Yannick, Software/DevOps Engineer.
 - Follow me on [GitHub](https://github.com/yandeu?tab=followers).
 - Follow me on [Twitter](https://twitter.com/_yandeu).
 
-Check out my latest project: [`express6`](https://github.com/yandeu/express6#readme)
-
-_In January 2022 I will drop CommonJS for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)_
+## News!
+- In **January 2022** I will **drop CommonJS** for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)
 
 ## Want to help?
 
