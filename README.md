@@ -7,7 +7,13 @@ I'm Yannick, Software/DevOps Engineer.
 - Follow me on [GitHub](https://github.com/yandeu?tab=followers).
 - Follow me on [Twitter](https://twitter.com/_yandeu).
 
+## NordPress 🌟
+
+This year (2022) I will **re-write WordPress in Node.js**.  
+Go to [NordPress.org](http://nordpress.org/) and get your free Playground!
+
 ## News!
+
 - In **January 2022** I will **drop CommonJS** for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)
 
 ## Want to help?
@@ -58,15 +64,16 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 
 ## Open source projects
 
-| Status                                                                                                                       | Project                                                                               | Description                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/express6/CI">                    | [`express6`](https://github.com/yandeu/express6#readme)                               | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/docker-swarm-visualizer/Docker"> | [`Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme) | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nanojsx/nano/CI">                       | [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)             | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/enable3d/enable3d/CI">                  | [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d)       | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/geckosio/geckos.io/CI">                 | [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io)       | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/five-server/CI">                 | [`Five Server`](https://github.com/yandeu/five-server#readme)                         | 🚀 Development Server with Live Reload Capability.                                         |
-| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/node-cli/CI">                    | [`node-cli`](https://github.com/yandeu/node-cli#readme)                               | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
+| Status                                                                                                                       | Project                                                                         | Description                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| `available soon`                                                                                                             | [`NordPress`](http://nordpress.org)                                             | 🌟 Node.js re-write of WordPress.                                                          |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/express6/CI">                    | [`express6`](https://github.com/yandeu/express6#readme)                         | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/docker-swarm-visualizer/Docker"> | [`Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme)  | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nanojsx/nano/CI">                       | [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)       | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/enable3d/enable3d/CI">                  | [`enable3d`](http://enable3d.io) [`repo`](https://github.com/enable3d/enable3d) | 🕹️ 2D/3D Game Framework for the Web, based on Three.js.                                    |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/geckosio/geckos.io/CI">                 | [`geckos.io`](http://geckos.io) [`repo`](https://github.com/geckosio/geckos.io) | 🦎 Real-time Client/Server Communication over UDP using WebRTC and Node.js.                |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/five-server/CI">                 | [`Five Server`](https://github.com/yandeu/five-server#readme)                   | 🚀 Development Server with Live Reload Capability.                                         |
+| <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/node-cli/CI">                    | [`node-cli`](https://github.com/yandeu/node-cli#readme)                         | 🖍️ Build a beautiful Node.js CLI with colors, pre-build elements and optional JSX support. |
 
 ## Other small packages
 
@@ -74,9 +81,9 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 | ------------------------------------------------ | ------------------------------------------------------------------------- |
 | [`gitget`](https://github.com/yandeu/gitget)     | 📦 package Clone GitHub repos fast and easy.                              |
 | [`tap`](https://github.com/yandeu/tap)           | 🖱️ Handling of user interactions such as mouse, touch and pointer events. |
-| [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                            |
+| [`keyboard`](https://github.com/yandeu/keyboard) | ⌨️ Handling of keyboard events.                                           |
 | [`audio`](https://github.com/yandeu/audio)       | 🎵 Audio library for the Web Audio API.                                   |
-| [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7              |
+| [`events`](https://github.com/yandeu/events)     | ⚡ Simplified and TypeScripted version of EventEmitter3@4.0.7             |
 | [`extract`](https://github.com/yandeu/extract)   | 📦 Extract package.json properties.                                       |
 
 ## Quick links
