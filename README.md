@@ -9,7 +9,7 @@ I'm Yannick, Software/DevOps Engineer.
 
 ## NordPress 🌟
 
-This year (2022) I will **re-write WordPress in Node.js**.  
+This year I try to write a **WordPress-like CMS in Node.js**.  
 Go to [NordPress.org](http://nordpress.org/) and get your free Playground!
 
 ## News!
@@ -66,7 +66,7 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
 
 | Status                                                                                                                       | Project                                                                         | Description                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| `available soon`                                                                                                             | [`NordPress`](http://nordpress.org)                                             | 🌟 Node.js re-write of WordPress.                                                          |
+| `available soon`                                                                                                             | [`NordPress`](http://nordpress.org)                                             | 🌟 Node.js based WordPress-like CMS                                                          |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/express6/CI">                    | [`express6`](https://github.com/yandeu/express6#readme)                         | 🏅 Modern, fast, unopinionated, minimalist web framework.                                  |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/yandeu/docker-swarm-visualizer/Docker"> | [`Swarm Visualizer`](https://github.com/yandeu/docker-swarm-visualizer#readme)  | 🐋 A Visualizer for Docker Swarm using the Docker Engine API and Node.js.                  |
 | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nanojsx/nano/CI">                       | [`Nano JSX`](http://nanojsx.io) [`repo`](https://github.com/nanojsx/nano)       | 🎯 SSR first, lightweight 1kB JSX library for Node.js and Deno.                            |
