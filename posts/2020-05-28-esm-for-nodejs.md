@@ -81,4 +81,4 @@ main()
 
 I will probably add the badge below to ESModule-Only packages:
 
-[![ES Modules Badge](https://img.shields.io/badge/Node.js-ES%20Modules-F7DF1E?style=flat-square)](https://github.com/yandeu/yandeu/blob/main/posts/2020-05-28-esm-for-nodejs.md)
+[![ES Modules Badge](https://img.shields.io/badge/Node.js-ES%20Modules-informational?style=flat-square)](https://github.com/yandeu/yandeu/blob/main/posts/2020-05-28-esm-for-nodejs.md) / [![ES Modules Badge](https://img.shields.io/badge/Node.js-ES%20Modules-informational)](https://github.com/yandeu/yandeu/blob/main/posts/2020-05-28-esm-for-nodejs.md)
