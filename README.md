@@ -39,6 +39,7 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
           <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/google-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" width="24px" height="24px" />
@@ -55,6 +56,7 @@ Check some [`unresolved issues`](https://github.com/issues?q=label%3A%22help+wan
           <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/twilio.svg" width="24px" height="24px" />
           <img
