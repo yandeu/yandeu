@@ -12,11 +12,6 @@ I'm Yannick, Software/DevOps Engineer.
 Easily convert your HTML5 app/game to a native Android or iOS app in the cloud.  
 Try it: [html2app.dev](https://html2app.dev/)
 
-## NordPress 🌟
-
-This year I try to write a **WordPress-like CMS in Node.js**.  
-Go to [NordPress.org](http://nordpress.org/) and get your free Playground!
-
 ## News!
 
 - In **January 2022** I will **drop CommonJS** for my Node.js Packages. [[> Read more]](posts/2020-05-28-esm-for-nodejs.md)
